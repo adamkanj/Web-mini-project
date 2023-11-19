@@ -1,0 +1,28 @@
+.menu-ico{
+    background: url(images/icons/Menu+icon.png);
+}
+.pg1-ico{
+    background: url(images/icons/profile+icon.png);
+}
+.pg2-ico{
+    background: url(images/icons/phone+icon.png);
+}
+.pg3-ico{
+    background: url(images/icons/gallery+icon.png);
+}
+
+
+
+
+.ico{
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background-size: cover;
+    margin: 5px;
+    vertical-align: middle;
+}
+.ico-l{
+    width: 24px;
+    height: 24px;
+}
