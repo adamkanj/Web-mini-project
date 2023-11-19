@@ -1,0 +1,7 @@
+First Name: adam
+Last Name: kanj
+Username: adamk
+Password: 123
+Sex: m
+Birthdate: 2023-11-13
+

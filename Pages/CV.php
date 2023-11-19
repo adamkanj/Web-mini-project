@@ -34,7 +34,7 @@ if (!isset($_SESSION["username"])) {
         </ul>
       </div>
     </div>
-    <div id="user-welcome">welcome <?php echo $_SESSION["username"]; ?></div>
+    <div id="user-welcome">welcome <?php echo $_SESSION["username"]; ?><a href="../index.php">Logout</a> </div>
   </div>
   <div class="resume">
     <div class="resume_left">
